@@ -46,6 +46,8 @@
 #include "mainwidget.h"
 #endif
 
+#include "a.out.h"
+
 int main(int argc, char *argv[])
 {
     QApplication app(argc, argv);
